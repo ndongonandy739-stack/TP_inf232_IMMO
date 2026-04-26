@@ -1,0 +1,4 @@
+streapmlit
+pandas
+scikit-learn
+matplotlib
